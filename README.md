@@ -1,4 +1,4 @@
-# machine-learning-2020-1
+# Disciplina de Aprendizado de Máquina
 Machine Learning Tasks
 
 # Dataset Utilizado
